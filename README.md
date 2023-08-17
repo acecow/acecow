@@ -1,16 +1,31 @@
 ### Hi there 👋
+<h5>I am learning programming</h5>
 
-<!--
-**acecow/acecow** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+```python
+def contact():
+    discord = 'ace_cow'
 
-Here are some ideas to get you started:
+    return discord
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+def life():
+    country = 'Russia'
+    languages = ['Russian', 'English']
+
+    return languages, country
+
+def coding():
+    languages = {
+      'medium': ['python'],
+      'learning': ['js', 'c#', 'java']
+    }
+    speciality  = ['web app development', 'fullstack']
+    environment = ['vscode', 'replit']
+    
+    return languages, speciality, environment
+```
+<h3 align="center">My skills</h3>
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=html,css,tailwind,js,vue,vite,vscode,py,java,cs" />
+  </a>
+</p>
