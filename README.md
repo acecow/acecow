@@ -15,8 +15,8 @@ def life():
 
 def coding():
     languages = {
-      'medium': ['python'],
-      'learning': ['js', 'c#', 'java']
+      'medium': ['js', 'python'],
+      'learning': ['c#', 'java']
     }
     speciality  = ['web app development', 'fullstack']
     environment = ['vscode', 'replit']
